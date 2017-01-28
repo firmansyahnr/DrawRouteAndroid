@@ -1,6 +1,12 @@
 # DrawRouteAndroid
 <h3>How To Use</h3>
 <br>
+<pre>
+1.  Copy folder Map to your project
+2.  Edit package name
+3.  Call to use methode
+</pre>
+<br>
 Declare
 <pre>
 GoogleMap mGoogleMap;
